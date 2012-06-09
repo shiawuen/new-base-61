@@ -16,7 +16,7 @@ var nb61 = require('new-base-61');
 var val = nb61.strtonum('Hello');
 
 // Convert number value back to string
-console.log(nb61.numtostr(val));  `     
+console.log(nb61.numtostr(val));
 
 ```
 
