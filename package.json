@@ -1,0 +1,23 @@
+{
+  "name": "new-base-61"
+, "version": "0.0.1"
+, "main": "./index"
+, "devDependencies": {
+    "mocha": "*"
+  , "should": "*"
+  }
+, "engines": {
+    "node": ">= 0.4.x < 0.8.0"
+  }
+, "scripts": {
+    "test": "make test"
+  }
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/shiawuen/new-base-61.git"
+  }
+, "author": {
+    "name": "Tan Shiaw Uen"
+  , "email": "shiawuen@gmail.com"
+  }
+}
